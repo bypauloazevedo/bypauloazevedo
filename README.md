@@ -40,7 +40,7 @@
   <img width="100%" src="./profile/snake.svg" alt="Cobrinha comendo o gráfico de contribuições" />
 </picture>
 
-### 🤝 Open source
+### 🤝 Open Source Contributions
 
 <a href="https://github.com/taghos/framework-sdk-spalla-react-native/pull/1"><img src="https://img.shields.io/badge/Spalla_SDK-PR_merged-8957E5?style=for-the-badge&logo=github&logoColor=white&labelColor=20232A" alt="Spalla SDK: PR merged" /></a>
 
