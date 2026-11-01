@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,100:7F77DD&height=200&section=header&text=Ol%C3%A1%2C%20me%20chamo%20Paulo%20Azevedo&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=AI%20Architect%20%26amp%3B%20Specialist%20%C2%B7%20Rio%20de%20Janeiro&descSize=17&descAlignY=56" alt="Olá, me chamo Paulo Azevedo" />
+<img width="100%" src="./profile/banner.svg" alt="Olá, me chamo Paulo Azevedo" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7F77DD&center=true&vCenter=true&width=620&lines=AI+Architect+%26+Specialist;Agentes+de+IA+e+automa%C3%A7%C3%B5es;Apps+mobile+e+web+com+IA" alt="AI Architect & Specialist" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=D946EF&center=true&vCenter=true&width=620&lines=AI+Architect+%26+Specialist;Agentes+de+IA+e+automa%C3%A7%C3%B5es;Apps+mobile+e+web+com+IA" alt="AI Architect & Specialist" />
 </p>
 
 ### 🧠 Sobre mim
